@@ -14,3 +14,10 @@ libraries/*
 # VSCode files
 .vscode/c_cpp_properties.json
 .vscode/settings.json
+
+# Datasets
+data/dataset
+dataset_augmented/
+*.jpeg
+*.jpg
+*.png
